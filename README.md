@@ -2,9 +2,6 @@
   <a href="https://github.com/ree393/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Data%20Analyst;Business%20Intelligence%20Developer;Power%20BI%20%7C%20SQL%20%7C%20Python;Turning%20Data%20into%20Actionable%20Insights&font=Fira%20Code&center=true&width=700&height=45&color=00BFFF&vCenter=true&pause=1000&size=22" />
 <h1 align="center"> I'm Reeni</h1>
-<h3 align="center">
-Engineer/Analyst  
-</h3>
 </a>
 </p>
 
