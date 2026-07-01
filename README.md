@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/ree393/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Data%20Analyst;Business%20Intelligence%20Enthusiast;Power%20BI%20%7C%20SQL%20%7C%20Python;Supply%20Chain%20Analytics;Turning%20Data%20into%20Actionable%20Insights&font=Fira%20Code&center=true&width=700&height=45&color=00BFFF&vCenter=true&pause=1000&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Data%20Analyst;Business%20Intelligence%20Developer;Power%20BI%20%7C%20SQL%20%7C%20Python;Turning%20Data%20into%20Actionable%20Insights&font=Fira%20Code&center=true&width=700&height=45&color=00BFFF&vCenter=true&pause=1000&size=22" />
   </a>
 </p>
 
