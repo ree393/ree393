@@ -7,6 +7,8 @@
 
 ---
 
+# 👩‍💼 About Me
+
 I am a **Data Analyst** with **1.6+ years of industry experience** in manufacturing and operations, helping businesses transform raw operational data into meaningful insights.
 
 I enjoy solving business problems through **data analysis, dashboard development, and data visualization**. My passion lies in understanding business processes, identifying trends, uncovering root causes, and enabling better decision-making through analytics.
