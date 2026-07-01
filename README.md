@@ -7,7 +7,7 @@
 
 ---
 
-I am a **Data Analyst** with **1.8+ years of industry experience** in manufacturing and operations, helping businesses transform raw operational data into meaningful insights.
+I am a **Data Analyst** with **1.6+ years of industry experience** in manufacturing and operations, helping businesses transform raw operational data into meaningful insights.
 
 I enjoy solving business problems through **data analysis, dashboard development, and data visualization**. My passion lies in understanding business processes, identifying trends, uncovering root causes, and enabling better decision-making through analytics.
 
@@ -52,9 +52,11 @@ Currently, I am looking for opportunities as a:
 ### 🛠 Tools
 
 - Power BI
-- Power Query
-- SQL Server
-- Advanced Excel
+- Power Query Editor
+- SQL Workbench
+- Excel 365
+- Jupyter Notebook
+- Google Collab
 - Git
 - GitHub
 
@@ -124,8 +126,6 @@ Currently, I am looking for opportunities as a:
 
 🏆 SQL (Basic) — HackerRank
 
-🏆 Microsoft Azure Fundamentals
-
 ---
 
 # 🌱 Currently Learning
@@ -134,7 +134,7 @@ Currently, I am looking for opportunities as a:
 - Python for Data Analytics
 - Supply Chain Analytics
 - Business Case Studies
-- Statistics for Data Analysis
+- Statistics and EDA for Data Analysis
 
 ---
 
