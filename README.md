@@ -7,7 +7,7 @@
 <h1 align="center">Hi 👋, I'm Reeni</h1>
 
 <h3 align="center">
-Data Analyst • Business Intelligence • Supply Chain Analytics
+Data Analyst  
 </h3>
 
 ---
