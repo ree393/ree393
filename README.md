@@ -1,5 +1,3 @@
-#  About Me
-
 Hi, I'm **Reeni** — a Data Analyst with **1.8+ years of industry experience** and a genuine passion for transforming data into meaningful business decisions.
 
 I enjoy exploring data to uncover trends, solve operational challenges, and build interactive dashboards that help organizations make informed decisions. For me, analytics is more than numbers—it's about asking the right questions, discovering insights, and creating measurable business impact.
