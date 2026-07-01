@@ -1,24 +1,14 @@
-<h2 align="center"> Hey, I'm Reeni</h2>
-<p align="center">
-  <a href="https://github.com/ree393/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Data%20Analyst;Business%20Intelligence%20Developer;Power%20BI%20%7C%20SQL%20%7C%20Python;Turning%20Data%20into%20Actionable%20Insights&font=Fira%20Code&center=true&width=700&height=30&color=00BFFF&vCenter=true&pause=1000&size=22" />
-</a>
-</p>
+#  About Me
 
+Hi, I'm **Reeni** — a Data Analyst with **1.8+ years of industry experience** and a genuine passion for transforming data into meaningful business decisions.
 
+I enjoy exploring data to uncover trends, solve operational challenges, and build interactive dashboards that help organizations make informed decisions. For me, analytics is more than numbers—it's about asking the right questions, discovering insights, and creating measurable business impact.
 
-# 👩‍💼 About Me
+With experience in **Power BI, SQL, Python, and Advanced Excel**, I strive to combine technical expertise with analytical thinking and business understanding to solve real-world problems.
 
-I am a **Data Analyst** with **1.6+ years of industry experience** in manufacturing and operations, helping businesses transform raw operational data into meaningful insights.
+I'm continuously learning, improving my analytical skills, and exploring new business domains because I believe the best analysts never stop asking **"Why?"** and **"What can the data tell us next?"**
 
-I enjoy solving business problems through **data analysis, dashboard development, and data visualization**. My passion lies in understanding business processes, identifying trends, uncovering root causes, and enabling better decision-making through analytics.
-
-Currently, I am looking for opportunities as a:
-
-- 📊 Data Analyst
-- 📦 Supply Chain Analyst
-- 📈 Operations Analyst
-- 📉 Business Analyst
+🚀 I'm excited to contribute to organizations that value data-driven decision-making while continuing to grow as a Data Analyst, Supply Chain Analyst, or Operations Analyst.
 
 ---
 
