@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Data%20Analyst;Business%20Intelligence%20Developer;Power%20BI%20%7C%20SQL%20%7C%20Python;Turning%20Data%20into%20Actionable%20Insights&font=Fira%20Code&center=true&width=700&height=45&color=00BFFF&vCenter=true&pause=1000&size=22" />
 </a>
 </p>
-
+---
 I am a **Data Analyst** with **1.8+ years of industry experience** in manufacturing and operations, helping businesses transform raw operational data into meaningful insights.
 
 I enjoy solving business problems through **data analysis, dashboard development, and data visualization**. My passion lies in understanding business processes, identifying trends, uncovering root causes, and enabling better decision-making through analytics.
